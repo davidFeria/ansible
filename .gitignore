@@ -1,0 +1,12 @@
+env_vars/aws_vault.yml
+env_vars/traineeid.yml
+*.retry
+.idea/
+d1l1_configurar_nginx.yml
+d2l3_configurar_env.yml
+d2l5_paquetes_minimos.yml
+d3l1_jinja_part1.yml
+d3l2_custommodule.yml
+inventories/*
+roles/*
+templates/*
